@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/fractalqb/goxic"
+	"git.fractalqb.de/fractalqb/goxic"
 )
 
 func ExampleInlinePlaceholder() {
